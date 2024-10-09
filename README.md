@@ -18,14 +18,6 @@ Each dashboard is a testament to exceptional skills in:
 - **Robust Data Modeling** and relationships, leveraging Excel's **Power Query** and **Power Pivot**
 - Efficient use of **DAX (Data Analysis Expressions)** for deeper insights
 
-### Key Features
-
-These dashboards do more than just present data—they transform it into actionable insights. Each dashboard showcases:
-
-- **Interactive Data Exploration**: Allowing users to manipulate data dynamically.
-- **Compelling Visuals**: Leveraging graphs, tables, and KPIs to bring the data to life.
-- **Real-World Business Intelligence**: Tackling complex business problems through innovative Excel solutions.
-- **Optimized Performance**: Designed for quick data refreshes and scalability.
 ## Detailed Dashboard Descriptions
 
 ### 1. Gaming Industry Analytics Dashboard
